@@ -1,0 +1,7 @@
+main {
+    rat i = [1/2];
+    i += [1/2];
+    int o = 3;
+    o += 1;
+    print i;
+}

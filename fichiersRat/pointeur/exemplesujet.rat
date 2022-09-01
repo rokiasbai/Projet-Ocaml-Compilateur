@@ -1,0 +1,7 @@
+test{
+    int * p = (new int);
+    int x = 5;
+    p = & x;
+    int y = (* p);
+    print y;
+}

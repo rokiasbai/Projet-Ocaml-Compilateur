@@ -1,0 +1,8 @@
+main{
+    int * p = (new int);
+    (* p) = 4;
+    int z = 4;
+    int *y = &z;
+    (*p) = (*y);
+    print (*p);
+} 

@@ -1,0 +1,5 @@
+main {
+    int i = 3;
+    i += [4/5];
+    print i;
+}

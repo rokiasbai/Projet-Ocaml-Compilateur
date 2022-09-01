@@ -1,0 +1,5 @@
+main{
+    int z = 18;
+    int *y = & z;
+    print (*y);
+} 
